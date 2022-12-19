@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dylan Rollins</title>
+	<atom:link href="https://dylanrollinss.github.io/photography/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dylanrollinss.github.io/photography/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Dec 2022 10:42:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Farewell, Papa.</title>
+		<link>https://dylanrollinss.github.io/photography/farewell-papa/</link>
+					<comments>https://dylanrollinss.github.io/photography/farewell-papa/#respond</comments>
+		
+		<dc:creator><![CDATA[dylanrollinss]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2022 10:26:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://dylanrollinss.github.io/photography/?p=211</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://dylanrollinss.github.io/photography/farewell-papa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First Shots with the Canon 5D Mark I.</title>
+		<link>https://dylanrollinss.github.io/photography/pi/</link>
+					<comments>https://dylanrollinss.github.io/photography/pi/#respond</comments>
+		
+		<dc:creator><![CDATA[dylanrollinss]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2022 02:46:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://dylanrollinss.github.io/photography/?p=133</guid>
+
+					<description><![CDATA[Let&#8217;s see how the text renders?]]></description>
+		
+					<wfw:commentRss>https://dylanrollinss.github.io/photography/pi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>At Sea.</title>
+		<link>https://dylanrollinss.github.io/photography/post-2/</link>
+					<comments>https://dylanrollinss.github.io/photography/post-2/#respond</comments>
+		
+		<dc:creator><![CDATA[dylanrollinss]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2022 02:33:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://dylanrollinss.github.io/photography/?p=127</guid>
+
+					<description><![CDATA[The sea is a desert of waves, a wilderness of water. Langston Hughes These photos are from when I took a cruise with my family—this cruise just so happened to take place right at the start of the COVID-19 outbreak—before the first case of COVID was detected in Houston (Harris County). Being a mode of [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://dylanrollinss.github.io/photography/post-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
